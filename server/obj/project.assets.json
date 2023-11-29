@@ -9976,11 +9976,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\מיכל\\Desktop\\‏‏‏‏YadVashemProject - עותק - עותק\\server\\server.csproj",
+      "projectUniqueName": "C:\\Users\\מיכל\\Source\\Repos\\yadVashem\\server\\server.csproj",
       "projectName": "server",
-      "projectPath": "C:\\Users\\מיכל\\Desktop\\‏‏‏‏YadVashemProject - עותק - עותק\\server\\server.csproj",
+      "projectPath": "C:\\Users\\מיכל\\Source\\Repos\\yadVashem\\server\\server.csproj",
       "packagesPath": "C:\\Users\\מיכל\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\מיכל\\Desktop\\‏‏‏‏YadVashemProject - עותק - עותק\\server\\obj\\",
+      "outputPath": "C:\\Users\\מיכל\\Source\\Repos\\yadVashem\\server\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

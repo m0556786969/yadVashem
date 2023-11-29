@@ -66,6 +66,10 @@ public static class Program
         string myString = num.ToString();
         //string folderName = "images"; // Replace with the folder name you want to search
         string lastImage = GetLastImageNameInFolder(myString);
+        if(lastImage == null)
+        {
+            return 0;
+        }
         if (lastImage.EndsWith("_XX.jpg"))
         {
             lastImage = lastImage.Substring(0, lastImage.Length - 3);

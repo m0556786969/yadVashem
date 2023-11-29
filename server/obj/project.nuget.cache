@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZyHsVlITXdDf3mOUjdXDsopkHXuwYRqvITzpnpurI3yllrQOcCxN/jYdxB8lkHujCFSb/A97yTWrvl3qgwiJ7w==",
+  "dgSpecHash": "W9gEznngo26TlUJeNd5HJBiDFmD2aEhxUWiLvtI3II+HLGSScsxPs2cWBEWlwtEQ/BipsTup8a5A5OimWIyBsQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\מיכל\\Desktop\\‏‏‏‏YadVashemProject - עותק - עותק\\server\\server.csproj",
+  "projectFilePath": "C:\\Users\\מיכל\\Source\\Repos\\yadVashem\\server\\server.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\מיכל\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\מיכל\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
